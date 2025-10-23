@@ -1,7 +1,5 @@
 # DataScience-Projects
 
-# Data Science Internship Project
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
